@@ -3,11 +3,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #7acfeb;
+    background-color: #00384b;
 }
 .container {
     max-width: 600px;
-    color:darkblue;
+    color:rgb(255, 255, 255);
     margin: 100px 400px ;
     padding: 20px;
     background-color: #1500ff41;
