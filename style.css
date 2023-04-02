@@ -3,14 +3,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
+    background-color: #7acfeb;
 }
 .container {
     max-width: 600px;
-    margin: 0 auto;
+    color:darkblue;
+    margin: 100px 400px ;
     padding: 20px;
-    background-color: #fff;
+    background-color: #1500ff41;
     border-radius: 10px;
+    opacity: 1.5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 h1 {
@@ -47,6 +49,8 @@ button:hover {
     background-color: #0062cc;
 }
 .result {
+    background-color: fuchsia;
+    color: #fff;
     margin-top: 20px;
     text-align: center;
     font-size: 24px;
